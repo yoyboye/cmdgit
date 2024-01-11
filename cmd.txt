@@ -1,0 +1,21 @@
+    1  vagrant status
+    2  sudo apt update
+    3  sudo apt upgrade
+    4  cd .ssh
+    5  ls -lah
+    6  ssh-keygen
+    7  ls -lah
+    8  cat id_rsa.pub 
+    9  git 
+   10  first install git
+   11  clear
+   12  cd ~
+   13  git clone git@github.com:yoyboye/cmdgit.git
+   14  clear
+   15  git status
+   16  ls 
+   17  cd cmdgit
+   18  ls
+   19  git status
+   20  clear
+   21  history > cmd.txt
